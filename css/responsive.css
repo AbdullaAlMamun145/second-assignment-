@@ -1,0 +1,8 @@
+@media screen and (max-width:576px) {
+    .navigation, .nav-content, .nav-bar{
+        flex-direction: column;
+    }
+    .nav-button{
+        margin-top: 1rem;
+    }
+}
