@@ -5,4 +5,11 @@
     .nav-button{
         margin-top: 1rem;
     }
+    .banner-container{
+        flex-direction: column-reverse;
+        gap: 2rem;
+    }
+    .banner-content, .banner-img{
+        width: 100%;
+    }
 }
